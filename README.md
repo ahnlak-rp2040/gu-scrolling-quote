@@ -1,4 +1,4 @@
-[![CMake](https://github.com/ahnlak-rp2040/gu-scolling-quote/actions/workflows/cmake.yml/badge.svg)](https://github.com/ahnlak-rp2040/gu-scolling-quote/actions/workflows/cmake.yml)
+[![CMake](https://github.com/ahnlak-rp2040/gu-scrolling-quote/actions/workflows/cmake.yml/badge.svg)](https://github.com/ahnlak-rp2040/gu-scrolling-quote/actions/workflows/cmake.yml)
 
 # Galactic Unicorn Scrolling Quote Demo
 
@@ -26,3 +26,4 @@ Pressing the 'A' button will request a fresh quote from the server.
 
 
 Share & Enjoy.
+
